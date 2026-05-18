@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Interruptor inteligente WiFi",
+    "image": "/img/Interruptor inteligente WiFi.png",
+    "price": 25.99,
+    "description": "Interruptor inteligente que permite controlar luces desde el celular mediante conexión WiFi."
+  },
+  {
+    "id": 2,
+    "title": "Lámpara LED inteligente",
+    "image": "/img/Lámpara LED inteligente.png",
+    "price": 18.50,
+    "description": "Lámpara LED con control remoto desde app, permite cambiar colores y ajustar intensidad."
+  },
+  {
+     "id": 3,
+    "title": "Cerradura inteligente",
+    "image": "/img/Cerradura inteligente.png",
+    "price": 120.00,
+    "description": "Cerradura digital que ofrece acceso seguro mediante código, app o huella digital."
+  },
+  {
+    "id": 4,
+    "title": "Cámara de seguridad 360°",
+    "image": "/img/Cámara de seguridad 360.png",
+    "price": 65.75,
+    "description": "Cámara de vigilancia con visión 360°, ideal para monitoreo en tiempo real desde el celular."
+  },
+  {
+    "id": 5,
+    "title": "Sensor de movimiento",
+    "image": "/img/Sensor de movimiento.png",
+    "price": 14.30,
+    "description": "Sensor que detecta movimiento y envía alertas al dispositivo móvil para mayor seguridad."
+  },
+  {
+    "id": 6,
+    "title": "Termostato inteligente",
+    "image": "/img/Termostato.avif",
+    "price": 89.90,
+    "description": "Dispositivo que regula la temperatura del hogar de forma automática y controlable desde app."
+  },
+  {
+     "id": 7,
+    "title": "Enchufe inteligente",
+    "image": "/img/Enchufe inteligente.png",
+    "price": 9.99,
+    "description": "Enchufe que permite encender y apagar dispositivos eléctricos de forma remota."
+  },
+  {
+    "id": 8,
+    "title": "Sensor de apertura de puerta",
+    "image": "/img/Sensor de apertura de puerta.png",
+    "price": 11.50,
+    "description": "Sensor que detecta la apertura o cierre de puertas y ventanas, enviando notificaciones."
+  },
+  {
+    "id":9, 
+    "title": "Robot aspirador",
+    "image": "/img/Robot aspirador.png",
+    "price": 230.00,
+    "description": "Robot autónomo que limpia pisos automáticamente, ideal para mantener el hogar limpio."
+  },
+  {
+    "id": 10,
+    "title": "Tira LED inteligente RGB",
+    "image": "/img/Tira LED inteligente RGB.png",
+    "price": 22.45,
+    "description": "Tira LED multicolor con control desde app, perfecta para ambientar espacios."
+  }
+]
