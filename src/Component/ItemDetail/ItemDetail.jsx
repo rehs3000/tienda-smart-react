@@ -1,6 +1,9 @@
+import { Item } from "../Item/Item";
 
 
-export const ItemDetail  = () => {
+export const ItemDetail  = ({item}) => {
 
-return <p>hola2</p>
+return <Item {...item}> 
+<button className="btn primario"> Agregar al carrito</button>
+</Item>
 };
